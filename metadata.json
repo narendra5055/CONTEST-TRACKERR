@@ -1,0 +1,5 @@
+{
+  "name": "Contest Tracker",
+  "description": "A web application to track upcoming programming contests from LeetCode, CodeChef, and GeeksforGeeks with features like filtering, countdowns, and adding events to Google Calendar.",
+  "requestFramePermissions": []
+}
